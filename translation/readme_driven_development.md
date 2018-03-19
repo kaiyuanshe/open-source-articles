@@ -4,7 +4,7 @@
 >
 > 生活在旧金山。[GitHub](https://github.com/) 联合创始人及 [Gravatars](https://en.gravatar.com/) 创始人。他喜欢进行有关创业的演讲，使用 Ruby 和 Erlang 进行编程，在湾区的古老红木森林里骑山地车。
 >
-> "The Readme should be the single most important document in your codebase; writing it first is the proper thing to do."
+> "自叙文档应该作为你代码库中最重要的文件。一开始写下它将是多么正确。"
 
 这些天，我听了很多关于开发更好软件演讲，包括 TDD，BDD，极限编程，敏捷开发，站立会议和所有类型的方法和技巧。但是除非我们正在开发的软件符合使用者的需求，否则这一切都将无关紧要。让我换一种方式表达，错误规范的完美实现是毫无价值的，就好比一个没有图书的精美图书馆一样，那是毫无意义的。如果你的软件解决了一个错误的问题或者根本没人会使用它，这将是一件很糟糕的事情。
 
