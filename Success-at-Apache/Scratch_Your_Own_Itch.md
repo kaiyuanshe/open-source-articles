@@ -1,4 +1,4 @@
-# 赢在 Apache：搔自己的痒
+# 赢在 Apache：挠自己的痒
 
 **原文：https://s.apache.org/Apah**
 
