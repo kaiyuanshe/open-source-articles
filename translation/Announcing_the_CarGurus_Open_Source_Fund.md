@@ -31,7 +31,7 @@ In the spirit of collaboration and bottom-up participation, a pool of $15,600 wa
 秉着协作及自下而上的参与精神，$15,600美元的资金池已经平均分配到我们工程师团队中的156名成员手里，每位工程师都可以捐献100美元给他们自己选择的一个项目。除了工程师自主的资金池之外，开源基金委员会还会挑选一个高亮项目捐助一万美元。随着开源基金的持续，可用的工程师自主的基金池还会继续增加。每位工程师每个季度都将选择一个项目来捐赠$100美元。
 
 ## Projects we’re funding in the first quarter of 2019
-## 我们在2019年第一季度捐助的项目
+## 我们在2019年第一季度资助的项目
 
 Here are first projects we’re supporting as part of the CarGurus Open Source Fund:
 
