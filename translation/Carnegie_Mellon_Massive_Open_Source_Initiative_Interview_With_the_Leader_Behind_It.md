@@ -20,4 +20,5 @@ By: IBL News -May 22, 2019
 
 In March, Carnegie Mellon University (CMU) announced an unprecedented initiative. Over the course of the year, they plan to release dozens of digital learning tools they have developed over the past decade on an open-source license. These include the learning analytics platform LearnSphere and their pioneering adaptive learning project the Open Learning Initiative (OLI). In all, CMU estimates $100 million in grants and university funding went into these efforts. The effort was spearheaded by the Simon Initiative, which continues the legacy of Nobel Laureate, Turing Award recipient, and CMU professor Herbert Simon.
 
-今年3月，卡内基梅隆大学（Carnegie Mellon University, CMU）宣布了一项前所未有的举措。在过去的一年里，他们计划发布几十个数字学习工具，这些工具都是他们在过去十年里在开源许可的基础上开发的。其中包括学习分析平台LearnSphere以及他们首创的适应性学习项目Open learning Initiative (OLI)。总之，卡内基梅隆大学预估将筹款1亿美元的资金和大学基金用于该举措的实施。这项举措将由西蒙计划主导，即诺贝尔奖得主、图灵奖获得者以及哥伦比亚大学的教授——赫伯特·西蒙。
+今年3月，卡内基梅隆大学（Carnegie Mellon University, CMU）宣布了一项前所未有的举措。在过去的一年里，他们计划发布几十个数字学习工具，这些工具都是他们在过去十年里在开源许可的基础上开发的。其中包括学习分析平台LearnSphere以及他们首创的适应性学习项目Open learning Initiative (OLI)。总之，卡内基梅隆大学预估将筹款1亿美元的资金和大学基金用于该举措的实施。这项举措将由西蒙计划主导，即诺贝尔奖得主、图灵奖得主，时任哥伦比亚大学教授一职的——赫伯特·西蒙教授。
+
