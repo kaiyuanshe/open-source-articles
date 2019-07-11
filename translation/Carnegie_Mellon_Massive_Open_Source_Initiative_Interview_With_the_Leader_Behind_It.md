@@ -10,13 +10,13 @@ By: IBL News -May 22, 2019
 
 ![bier](https://iblnews.org/wp-content/uploads/2019/06/bier.jpg)
 
-**As an Alternative to the Tech Transfer Approach, Carnegie Mellon Will Open-Source Dozens of Internally Developed EdTech Tools**
+## As an Alternative to the Tech Transfer Approach, Carnegie Mellon Will Open-Source Dozens of Internally Developed EdTech Tools
 
-**作为技术转移的一种替代手段，卡内基梅隆大学将对外公布一批由内部开发的EdTech工具源代码。**
+## 作为技术转移的一种替代手段，卡内基梅隆大学将对外公布一批由内部开发的EdTech工具源代码。
 
-**Henry Kronk | IBL News**
+## Henry Kronk | IBL News
 
-**亨利·克朗| IBL新闻**
+## 亨利·克朗| IBL新闻
 
 In March, Carnegie Mellon University (CMU) announced an unprecedented initiative. Over the course of the year, they plan to release dozens of digital learning tools they have developed over the past decade on an open-source license. These include the learning analytics platform LearnSphere and their pioneering adaptive learning project the Open Learning Initiative (OLI). In all, CMU estimates $100 million in grants and university funding went into these efforts. The effort was spearheaded by the Simon Initiative, which continues the legacy of Nobel Laureate, Turing Award recipient, and CMU professor Herbert Simon.
 
