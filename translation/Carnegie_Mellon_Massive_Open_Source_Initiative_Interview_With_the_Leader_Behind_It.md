@@ -1,5 +1,6 @@
 
 # Carnegie Mellon’s Massive Open Source Initiative – Interview With the Leader Behind It
+
 # 卡内基梅隆大学的大规模开源计划——对背后领导者的采访
 
 By: IBL News -May 22, 2019
@@ -12,7 +13,7 @@ By: IBL News -May 22, 2019
 
 ## As an Alternative to the Tech Transfer Approach, Carnegie Mellon Will Open-Source Dozens of Internally Developed EdTech Tools
 
-## 作为技术转移的一种替代手段，卡内基梅隆大学将对外公布一批由内部开发的EdTech工具源代码。
+## 作为技术转移的一种替代手段，卡内基梅隆大学将对外公布一批由内部开发的EdTech工具源代码
 
 ## Henry Kronk | IBL News
 
