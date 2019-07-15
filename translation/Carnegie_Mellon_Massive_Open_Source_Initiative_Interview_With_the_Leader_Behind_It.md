@@ -57,7 +57,10 @@ What we’ve had from these collaborations are some really exciting and impactfu
 
 **Norman Bier:** We don’t always see this work being used here on campus for CMU students’ benefit. Despite some of the impressive numbers I’ve just cited, we don’t always see this work getting out into the world in a way that has a real impact in terms of improving learning. Although I do think we collaborate as well as anyone, even here, we often see that projects don’t always integrate well. Sometimes we see replication of effort. So the Simon Initiative was launched to better interconnect and accelerate the work that is happening in this space to position it in a way so that we can really use these tools but also these techniques and approaches we have been developing to transform the learning experience for Carnegie Mellon students, to also get it out into the world in ways that have a broader impact and improve learning outcomes more globally.
 
-**Norman Bier:** 我们发现跨学科合作并不总是能起到改善卡内基梅隆大学内学生们学习的作用。尽管我刚才引用的那些令人印象深刻的数据，但该项工作并非一直都被认同是一种可在现实中运用的，能提高学习的方法。尽管我认为这些研究已经合作得很好了，但即使在本校，有部分项目还是难以达到理想的融合。有时我们只能看到重复性的徒劳工作。所以西蒙计划的推出旨在改善了跨学科过程中的互连和加速工作，以便我们既可以使用这些工具，还可以运用我们一直以来开发的这些技术和方法，来改变卡内基梅隆大学学生的学习体验，让他们有更多的方式来接触世界，从而对他们产生更深远的影响，全面地提升他们的学习成果。
+**Norman Bier:** 我们发现跨学科交流并不总是能起到改善卡内基梅隆大学内学生们的学习能力。尽管我刚才引用的那些令人印象深刻的数据，但该项工作并非一直都被认同是一种可在现实中运用的，能提高学习的方法。尽管我认为这些跨学科研究已经合作得很好了，但即便在本校，有些项目还是难以达到理想的融合。有时我们只能看到重复性的徒劳工作。所以西蒙计划的推行旨在于加强跨学科过程中的互连和加速工作，以便我们既可以使用这些工具，还可以运用我们一直以来开发的这些技术和方法，来改变卡内基梅隆大学内学生们的学习体验，让他们有更多的方式来接触世界，从而对他们产生更深远的影响，全面地提升他们的学习成果。
 
 In a lot of ways, we follow Herb Simon’s challenge to his colleagues at the end of his career—that if we want to improve learning, we need to stop thinking about it as teaching and start creating it as a community-based research activity … In some ways, our charge is if we don’t have a college of education, we should treat the entire university as a college of education and make the classroom a learning laboratory.
 
+在很多方面,我们遵循着赫伯特·西蒙任教晚期所提出的观点——“如果要提高学生们的学习能力,我们应不再思考如何去授课而是鼓励学生们举办以社区为基础的研究活动”……换言之,假设能取消面授的大学课堂,我们主张把整个大学的教育内容投入到学习实验室中去。
+
+With this diversity of approaches and tools, we need to think about what is common across the work. This is where we really emphasize the ‘learning engineering approach.’
