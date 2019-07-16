@@ -13,7 +13,7 @@ By: IBL News -May 22, 2019
 
 ## As an Alternative to the Tech Transfer Approach, Carnegie Mellon Will Open-Source Dozens of Internally Developed EdTech Tools
 
-## 作为技术转移的一种替代手段，卡内基梅隆大学将对外公布一批由内部开发的EdTech工具源代码
+## 作为技术转移的一种替代手段，卡内基梅隆大学将对外提供一批由内部开发的EdTech工具源代码
 
 ## Henry Kronk | IBL News
 
@@ -37,7 +37,7 @@ Norman Bier是Simon计划和开放学习项目网站的负责人。他对大学�
 
 IBL News reached Bier to hear more about CMU’s massive open-source effort.
 
-IBL新闻最近对Norman Bier进行采访，打听到了更多关于卡内基梅隆大学在大规模开源上的努力。
+IBL新闻最近对Norman Bier进行采访，打听到更多关于卡内基梅隆大学在大规模开源上的努力。
 
 **Henry Kronk:** Naturally, the main thing I’d like to know is why do this open-source initiative in the first place?
 
@@ -45,7 +45,7 @@ IBL新闻最近对Norman Bier进行采访，打听到了更多关于卡内基梅
 
 **Norman Bier:** Carnegie Mellon doesn’t have a college of education. But at the same time, we’ve got a really rich tradition of interesting work at the place where psychology, cognitive science, human-computer interaction, and computer science intersect. We’ve got a rich tradition of building sort of weird cross-discipline teams that you don’t always see in other institutions. Particularly from Herb Simon’s influence, we’ve got this deep tradition of thinking seriously about how to improve learning.
 
-**Norman Bier:** 卡内基梅隆大学并没有教育学院。但即便在这种情况下，我们在心理学、认知科学、人机交互和计算机科学交叉的领域，却有着丰富的兴趣培养文化。我们会建立一些古怪的跨学科团队，这在其他教育机构并不常见。但在赫伯·西蒙的影响下，我们培养出了一种校园文化——让我们深刻思考有哪些可以改善学习的方法。
+**Norman Bier:** 卡内基梅隆大学并没有教育研究学院。但即便在这种情况下，我们在心理学、认知科学、人机交互和计算机科学交叉的领域，却有着丰富的兴趣培养文化。我们会建立一些古怪的跨学科团队，这在其他教育机构并不常见。但在赫伯·西蒙的影响下，我们培养出了一种校园文化——让我们深刻思考有哪些可以改善学习的方法。
 
 What we’ve had from these collaborations are some really exciting and impactful individual projects that range from things like our work in cognitive tutors (in the algebra space, we’ve seen use of the tutors can help K-12 students get an additional year’s worth of training compared to their traditional peers) There’s also the OLI. The OLI is probably best known for its work in statistics where we saw roughly twice the learning outcomes in half the time. But there are a whole host of other things as well from virtual chemistry labs to new tutoring approaches in second language acquisition to educational data mining—lots and lots of work in this space that we’re really proud of.
 
@@ -57,7 +57,7 @@ What we’ve had from these collaborations are some really exciting and impactfu
 
 **Norman Bier:** We don’t always see this work being used here on campus for CMU students’ benefit. Despite some of the impressive numbers I’ve just cited, we don’t always see this work getting out into the world in a way that has a real impact in terms of improving learning. Although I do think we collaborate as well as anyone, even here, we often see that projects don’t always integrate well. Sometimes we see replication of effort. So the Simon Initiative was launched to better interconnect and accelerate the work that is happening in this space to position it in a way so that we can really use these tools but also these techniques and approaches we have been developing to transform the learning experience for Carnegie Mellon students, to also get it out into the world in ways that have a broader impact and improve learning outcomes more globally.
 
-**Norman Bier:** 我们发现跨学科交流并不总是能起到改善卡内基梅隆大学内学生们的学习能力。尽管有我刚才提到的那些令人印象深刻的数据，但该项工作并非一直都被认同是一种可在现实中运用的，能提高学习的方法。尽管我认为这些跨学科研究已经合作得很好了，但即便在本校，有些项目还是难以达到理想的融合。有时我们只能看到重复性的徒劳工作。所以西蒙计划的推行旨在于加强跨学科过程中的互连和加速工作，以便我们既可以使用这些工具，还可以运用我们一直以来开发的这些技术和方法，来改变卡内基梅隆大学内学生们的学习体验，让他们有更多的方式来接触世界，从而对他们产生更深远的影响，全面地提升他们的学习成果。
+**Norman Bier:** 我们发现跨学科交流并不总是能起到改善卡内基梅隆大学内学生们的学习能力。尽管有我刚才提到的那些令人印象深刻的数据，但该项工作并非一直都被认同是一种可在现实中运用的、能提高学习的方法。尽管我认为这些跨学科研究已经合作得很好了，但即便在本校，有些项目还是难以达到理想的融合。有时我们只能看到重复性的徒劳工作。所以西蒙计划的推行旨在于加强跨学科交流过程中的互连和加速过程，以便我们既可以使用这些工具，还可以运用我们一直以来开发的这些技术和方法，来改变卡内基梅隆大学内学生们的学习体验，让他们有更多的方式来接触世界，从而对他们产生更深远的影响，全面地提升他们的学习成果。
 
 In a lot of ways, we follow Herb Simon’s challenge to his colleagues at the end of his career—that if we want to improve learning, we need to stop thinking about it as teaching and start creating it as a community-based research activity … In some ways, our charge is if we don’t have a college of education, we should treat the entire university as a college of education and make the classroom a learning laboratory.
 
@@ -81,4 +81,25 @@ Over the years, we’ve been thinking about how to position these tools and appr
 
 Most of this work still needs to be embedded in its research. We’re not at a point where any of this is mature and the research is finished. But rather, when we think about this as part of an engineering effort, we see this real need to staying close to this ongoing research, recognizing where we have new questions that we’re asking, and if we start to really push on this notion that every new learning experience that we’re designing represents a hypothesis, staying close to the toolset, staying close to the approach becomes really important.
 
-跨学科工作的大部分仍需深入研究。我们还没有达到任何一个成熟的研究阶段。而是,当我们想到这作为一个工程的努力的一部分,我们看到这个真正的需要保持接近这个正在进行的研究,认识到我们的新问题,我们问,如果我们开始推动这一概念,每一个新的学习经验,我们的设计代表了一个假说,保持接近工具集,保持接近的方法变得非常重要。
+跨学科交流的大部分工作仍需深入研究。目前，还没有产品研发到成熟的阶段。我们意识到该研究关乎着整个工程的一部分,虽然知道未来会有新问题的出现,但即便如此,我们很清楚该项研究仍值得持续性的投入。而且学校如果一旦接受这种认为“每个创新的学习体验都代表着一个假设”的理念，那么拥护支持工具集和方法就会变得很重要。
+
+As we’ve investigated new ways towards getting this learning engineering approach broadly used, more broadly accepted, it became increasingly clear that we didn’t have a perfect existing model to tie into.
+
+随着我们继续探求新的推广策略以使这种学习工程的方法得到广泛地接受和应用，我们越来越清楚地认识到，我们没有一个完美的现有模型。
+
+The tech transfer approach wasn’t going to work. We started saying, ‘Maybe we’ll think about CMU just building this stuff for the world. We can build the world’s best statistics course, everyone can use that.’
+
+技术转让的方法是行不通的。于是我们主张，‘也许可以考虑让卡内基梅隆大学为全世界打造学习工程学。我们可以开设世界上最好的统计学课程，让每个人都学会使用它。”
+
+**Henry Kronk:** So then, what specifically is attractive about the open-sourcing model?
+
+**Henry Kronk:** 那么，开源的推广模式有什么特别吸引人的地方呢?
+
+**Norman Bier:** Our ongoing research keeps showing us that 1) there is no perfect statistics course for the world and 2) cultural context is so important for learning that what we really need to do (if we think these tools and approaches are important) is position them in ways such that folks can deploy them in their own context with their own learners’ needs in mind. And if we were going to learn from that approach, we need to position this work in a way that the results coming back from those efforts can come back in a way that we and the rest of the community can see them.
+
+**Norman Bier:** 我们目前进行中的研究不断地表明出,1)世上没有完美的统计学课程；2)文化背景相当重要,以至于我们的主要任务就是将它们摆进合适的位置(前提是我们认为这些工具和方法都有重要作用),就如求学者可以按照自己的需求把干货写进文章的那样。如果我们要从该方法中从中受益，那么我们则需要明确该工作的定位，以确保工作的努力成果能被自己和社区里的大家所看到。
+
+This really started pushing us to more of a community-based approach and that in turn led us to this notion that we need to be more open about our work.
+
+这真的推动了我们众多以社区为基础的方法的发展，此外这也同时反过来影响了我们的观念，需要大家更加开放地对待我们的工作。
+
