@@ -105,4 +105,4 @@ This really started pushing us to more of a community-based approach and that in
 
 By opening up these tools and opening up the software, I’m not sure that I’m trying to encourage every institution out there to spin up their own instance of the DataShop platform. That’s 1) not very efficient and 2) for a lot of the folks we’re trying to see impacted, they don’t have the resources or expertise to do this. But in order to encourage this use of some of the centralized tools and centralized approaches, that code base was sort of table stakes. It was a way of saying, ‘Look, you can count on the fact that this stuff won’t disappear because it’s out here for you.’
 
-通过开放这些工具和软件，我不确定我的鼓励能否使每个机构都能去建立自己的数据跳平台实例。这是因为1)它的效率不高；2)对于我们这些试图观察到影响作用的人来说，他们没有资质或专业知识来完成这件事。但为了鼓励人们使用一些集中的工具和方法，代码库有点像一场赌注。就好像在说，‘瞧，你可以相信的，这些东西不会消失，因为它就在这里等着你。’
+虽然有开放这些工具和软件，我还是不太自信自己的鼓励能使每个机构都能去建立自己的数据跳平台实例。这是因为1)它的效率不高；2)对于我们这些试图观察到影响作用的人来说，他们没有资质或专业知识来完成这件事。但为了鼓励人们使用一些集中的工具和方法，代码库有点像一场赌注。就好像在说，‘瞧，你可以相信的，这些东西不会消失，因为它就在这里等着你。’
