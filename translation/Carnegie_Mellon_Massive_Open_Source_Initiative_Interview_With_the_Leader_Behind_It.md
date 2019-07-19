@@ -106,3 +106,13 @@ This really started pushing us to more of a community-based approach and that in
 By opening up these tools and opening up the software, I’m not sure that I’m trying to encourage every institution out there to spin up their own instance of the DataShop platform. That’s 1) not very efficient and 2) for a lot of the folks we’re trying to see impacted, they don’t have the resources or expertise to do this. But in order to encourage this use of some of the centralized tools and centralized approaches, that code base was sort of table stakes. It was a way of saying, ‘Look, you can count on the fact that this stuff won’t disappear because it’s out here for you.’
 
 虽然有开放这些工具和软件，我还是不太自信自己的鼓励能使每个机构都能去建立自己的数据跳平台实例。这是因为1)它的效率不高；2)对于我们这些试图观察到影响作用的人来说，他们没有资质或专业知识来完成这件事。但为了鼓励人们使用一些集中的工具和方法，代码库有点像一场博弈。就好像在说，‘瞧，你可以相信的，这些东西不会消失，因为它就在这里等着你。’
+
+**Henry Kronk:** A lot of existing coverage of OLI’s open-source initiative is saying something like, ‘Carnegie Mellon is giving these digital tools away.’ Now, this is a purposefully imperfect metaphor, but let’s say I developed a tool to fix my bike. I could hand that tool to somebody else so that they could fix their bike. But that’s not exactly what’s going on here, is it?
+
+**Henry Kronk:** 现在有许多关于开放学习项目的报道都在宣称，‘卡内基梅隆大学正在免费提供这些数字工具。但就现在而言，这可能是一个不太切实的比喻，让我们假设一下如果我开发了一个能给自己修自行车的工具。我可以把那个工具交给别人，让他们也能修自己的自行车。但这听上去不太切实际吧，不对吗?
+
+**Norman Bier:** No, I think it’s different in two ways. What we are providing is a garage where you can come, bring your bike, and, to push the metaphor, you need to bring your own data or your own grease or your own brake pads. But what we have is a community-supported bike garage where you can go in and take advantage of some of the tools there. 
+
+**Norman Bier:** 不，我觉得问题可以分为两种情景。我们对外开放的是一个车库，你可以推着你的自行车进来修，就好比方说，你得带上自己的数据，如自备的润滑油，或者自备的刹车片。但我们开的自行车车库受到整个社区的支持，你可以到车库里利用那里面的一些工具。
+
+But if you have the resources, we’re also handing you the tools to go and open your own bike garage. If engaging with this centrally-supported garage isn’t going to work for you, then you have the opportunity to go home and build your own. Take the case of LearnSphere (an iteration of an earlier version of DataShop, which was intended as that one central educational data mining and warehousing infrastructure for the community. A lot of folks had been consistent users over the years, but we were consistently hearing that, though they were comfortable with the notion of sharing their data, and though they were comfortable with the notion of sharing techniques, they weren’t necessarily comfortable with taking their data and sticking it on CMU servers.
