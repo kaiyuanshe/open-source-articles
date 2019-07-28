@@ -123,3 +123,10 @@ So one piece of the LearnSphere project has been to create a more distributed in
 
 LearnSphere项目的其中一部分工作是为了创建一个更加分布式的基础设施，这样一来，一旦孟菲斯大学建立起他们自己的LearnSphere数据，LearnSphere团队们即可完全控制自己的数据。由于LearnSphere公开的数据有了分布式基础设施的加持，所以即便有人需要使用这些数据进行二次分析，团队仍可访问这些数据。LearnSphere也参与了一些更大的分析方法共享项目和数据可视化项目。
 
+**Henry Kronk:** And then, there’s also the data-sharing aspect.
+
+**Henry Kronk:** 此外，这还涉及到数据共享的问题。
+
+**Norman Bier:** Yes. This is starting to take the bike shop metaphor in weird places, but if you want to go off and stand up your own workspace, it can still connect with and share some of the resources with the original bike shop or any other one in a way that should be mutually beneficial to everyone. That’s a really important piece in this. When we talk about the learning engineering approach, we also talk about, in the aggregate, that data feeding fresh discoveries in the learning sciences. A model where everyone goes off, stands up their own DataShop, stands up their own OLI, and only uses that information internally really limits our ability to learn from what is happening, to identify what is working, and to see that pushed out to a larger group of students.
+
+**Norman Bier:** 没错。这种情形下再拿自行车商店来作个古怪的比喻,但如果你想离开创建自己的工作区,使它仍然与原有的自行车商店或任何其他商店保持联系并可以共享一些资源，那么这种方式对所有人都有益。这一点相当重要。当我们谈到学习工程学的方法时，我们也集思广益地讨论，这些数据为学习工程学带来了新的发现。一个无人值守的模型，有自己的数据集，也有自己的开放学习项目，并只能在内部使用这些信息，这些条件阻碍了我们从事物发展中进行学习的能力，降低了我们识别作用主体的识别能力，并限制了学生群体对知识的吸收速度。
