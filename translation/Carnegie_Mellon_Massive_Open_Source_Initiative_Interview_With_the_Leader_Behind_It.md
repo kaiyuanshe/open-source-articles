@@ -116,3 +116,10 @@ By opening up these tools and opening up the software, I’m not sure that I’m
 **Norman Bier:** 不，我觉得问题可以分为两种情景。我们对外开放的是一个车库，你可以推着你的自行车进来修，就好比方说，你得带上自己的数据，如自备的润滑油，或者自备的刹车片。但我们开的自行车车库受到整个社区的支持，你可以到车库里利用那里面的一些工具。
 
 But if you have the resources, we’re also handing you the tools to go and open your own bike garage. If engaging with this centrally-supported garage isn’t going to work for you, then you have the opportunity to go home and build your own. Take the case of LearnSphere (an iteration of an earlier version of DataShop, which was intended as that one central educational data mining and warehousing infrastructure for the community. A lot of folks had been consistent users over the years, but we were consistently hearing that, though they were comfortable with the notion of sharing their data, and though they were comfortable with the notion of sharing techniques, they weren’t necessarily comfortable with taking their data and sticking it on CMU servers.
+
+但如果你有足够的资源，我们也会提供工具鼓励大家去开自己的“自行车车库”。因为如果这个集中式的“车库”服务不适合你，那么你应有理由回家打造自己的车库。就以LearnSphere为例(DataShop的一个早期迭代版本，其目的旨在搭建社区的集中式教育数据挖掘和仓库基础设施。很多年来都有稳定的用户数量,但是我们都听说：尽管LearnSphere团队明白自己的数据给分享了出去,且他们也熟悉技术分享的概念,但LearnSphere他们可不会乐于看到自己的数据被人拿走,还被公开在中央服务器上。
+
+So one piece of the LearnSphere project has been to create a more distributed infrastructure so that, if the University of Memphis stands up their own LearnSphere data, they’re now completely in control of their own data. They’re able to expose that so that if others need to use that data for secondary analysis, they can still get access. They participate in some of the larger sharing of analytic methods and some of the visualizations.
+
+LearnSphere项目的其中一部分工作是为了创建一个更加分布式的基础设施，这样一来，一旦孟菲斯大学建立起他们自己的LearnSphere数据，LearnSphere团队们即可完全控制自己的数据。由于LearnSphere公开的数据有了分布式基础设施的加持，所以即便有人需要使用这些数据进行二次分析，团队仍可访问这些数据。LearnSphere也参与了一些更大的分析方法共享项目和数据可视化项目。
+
