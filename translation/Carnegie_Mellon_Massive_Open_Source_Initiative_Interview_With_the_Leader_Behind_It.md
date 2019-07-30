@@ -111,7 +111,7 @@ By opening up these tools and opening up the software, I’m not sure that I’m
 
 **Henry Kronk:** 现在有许多关于开放学习项目的报道都在宣称，‘卡内基梅隆大学正在免费提供这些数字工具。但就现在而言，这可能是一个不太切实的比喻，让我们假设一下如果我开发了一个能给自己修自行车的工具。我可以把那个工具交给别人，让他们也能修自己的自行车。但这听上去不太切实际吧，不对吗?
 
-**Norman Bier:** No, I think it’s different in two ways. What we are providing is a garage where you can come, bring your bike, and, to push the metaphor, you need to bring your own data or your own grease or your own brake pads. But what we have is a community-supported bike garage where you can go in and take advantage of some of the tools there. 
+**Norman Bier:** No, I think it’s different in two ways. What we are providing is a garage where you can come, bring your bike, and, to push the metaphor, you need to bring your own data or your own grease or your own brake pads. But what we have is a community-supported bike garage where you can go in and take advantage of some of the tools there.
 
 **Norman Bier:** 不，我觉得问题可以分为两种情景。我们对外开放的是一个车库，你可以推着你的自行车进来修，就好比方说，你得带上自己的数据，如自备的润滑油，或者自备的刹车片。但我们开的自行车车库受到整个社区的支持，你可以到车库里利用那里面的一些工具。
 
@@ -130,3 +130,23 @@ LearnSphere项目的其中一部分工作是为了创建一个更加分布式的
 **Norman Bier:** Yes. This is starting to take the bike shop metaphor in weird places, but if you want to go off and stand up your own workspace, it can still connect with and share some of the resources with the original bike shop or any other one in a way that should be mutually beneficial to everyone. That’s a really important piece in this. When we talk about the learning engineering approach, we also talk about, in the aggregate, that data feeding fresh discoveries in the learning sciences. A model where everyone goes off, stands up their own DataShop, stands up their own OLI, and only uses that information internally really limits our ability to learn from what is happening, to identify what is working, and to see that pushed out to a larger group of students.
 
 **Norman Bier:** 没错。这种情形下再拿自行车商店来作个古怪的比喻,但如果你想离开创建自己的工作区,使它仍然与原有的自行车商店或任何其他商店保持联系并可以共享一些资源，那么这种方式对所有人都有益。这一点相当重要。当我们谈到学习工程学的方法时，我们也集思广益地讨论，这些数据为学习工程学带来了新的发现。一个无人值守的模型，有自己的数据集，也有自己的开放学习项目，并只能在内部使用这些信息，这些条件阻碍了我们从事物发展中进行学习的能力，降低了我们识别作用主体的识别能力，并限制了学生群体对知识的吸收速度。
+
+Some piece of this is saying, ‘You don’t need to become dependent on our bike shop and worry that we’re going to close the doors or start charging for it. You could go build your own if you need it. But there is a benefit with engaging and contributing to this work as part of a larger community.’
+
+上述的情形表明：“你无需依赖我们的自行车店，也无需担心我们会关门或收费。如果你需要的话，你可以自己建造。但是，作为一个更大的社区的一部分，参与该项工作并作出贡献是有益的。”
+
+**Henry Kronk:** Based on your time spent with other edtech tools and services that have gone the for-profit proprietary route, are you moving forward with this open-source initiative with any specific lessons learned?
+
+**Henry Kronk:** 我们知道你在其它edtech的工具和服务上花费了大量时间精力，而这些工具和服务也开始采取专有的盈利化进程，您是否在这个开源项目上取得了一些具体的经验教训?
+
+**Norman Bier:** I think when I combine my experience at iCarnegie with some more recent work here at OLI, it’s become increasingly important to find ways to let individuals revise and re-contextualize the learning materials that are getting pushed out. If we are serious about leveraging learning data to improve that learning experience, and we’re serious about faculty needing to be able to make these changes, then we really need to focus on putting tools in their hands that exposes them to the data, makes that information actionable, and gives them that chance to engage in their own closed-loop cycle of review, analysis, design, development, and deployment.
+
+**Norman Bier:** 当我把iCarnegie的经历和最近在开放学习项目中的一些工作结合思考的时候，我发现，对正在被淘汰的学习材料进行个人修改和重新语境化变得越来越重要。若我们想好好利用学习数据来改善学习体验，并严格要求教学职工做出改变，那么我们应把工具交付至他们的手中,向他们公开数据,使信息可操作,并授予他们机会能对自己进行反复的闭环评审,分析、设计、开发和部署。
+
+That was a piece that we didn’t have at all at iCarnegie. Again, this was prior to the existence of the concept of open education. Maybe that’s not fair. I have some colleagues at the Open University who would hunt me down and beat me up for saying that. This is prior to the Creative Commons license existing before we were talking about OER. We never got faculty to a place where we were asking, ‘How can we equip faculty to make changes to this?’ let alone, ‘How can we more deeply involve them in this improvement process?’
+
+我们之前在iCarnegie公司里根本没有这种概念。当然，这或许有些不公，因为当时开放式教育概念还没有出现。我有一些在开放大学里的同僚可能会因为我接下来说的话而痛打我。在我们讨论OER之前，我们应先探讨现有的知识共享许可。我们从未有问过教员这一问题:“要如何才能使教员具备改变现状的能力?”更不用问“怎样才能使教员们在参与改善过程中时更加投入?”
+
+That’s been a lesson that stretched into OLI. We have a process that has historically produced some really remarkable and effective courseware. But at the same time, to get faculty to engage with the larger course development team … for a lot of faculty, this notion that I don’t need to build a full course, I’ve got this one specific learning challenge I need to address, and I’ve got some ideas about what can be effective—it seemed pretty important to include that population in this work. We’ve been spending a lot of attention and making some deep investments in the kind of authoring and improvement tools that really should allow anyone to come in and make some changes to an existing course or test out their hypothesis but also making sure that there’s going to be data coming back.
+
+那是开放学习项目的教训。我们已经制作了一些史上非常出色和有效的课件。但与此同时,让教师参与到更大的课程开发团队…这对很多教师来说，相当于无需再独自构建一个完整的课程, 我要对一个特定的学习挑战表明我的立场, 同时我已经知道了行之有效的方法——重要的是让人们参与进课程中。我们已经在编写和改进工具上花费了大量的精力和投资, 我们真的应该对外开放，对现有的课程做出一些改变，或者在确保有数据回报的情况下检验他们的假设。
