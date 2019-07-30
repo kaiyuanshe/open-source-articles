@@ -7,7 +7,7 @@ By: IBL News -May 22, 2019
 
 原文：[https://iblnews.org/carnegie-mellons-massive-open-source-initiative-interview-with-the-leader-behind-it/](https://iblnews.org/carnegie-mellons-massive-open-source-initiative-interview-with-the-leader-behind-it/)
 
-石墨：
+石墨：[https://shimo.im/docs/8VWHK6XyVCHHQqV6/](https://shimo.im/docs/8VWHK6XyVCHHQqV6/)
 
 ![bier](https://iblnews.org/wp-content/uploads/2019/06/bier.jpg)
 
@@ -17,7 +17,7 @@ By: IBL News -May 22, 2019
 
 ## Henry Kronk | IBL News
 
-## 亨利·克朗| IBL新闻
+## Henry Kronk | IBL新闻
 
 In March, Carnegie Mellon University (CMU) announced an unprecedented initiative. Over the course of the year, they plan to release dozens of digital learning tools they have developed over the past decade on an open-source license. These include the learning analytics platform LearnSphere and their pioneering adaptive learning project the Open Learning Initiative (OLI). In all, CMU estimates $100 million in grants and university funding went into these efforts. The effort was spearheaded by the Simon Initiative, which continues the legacy of Nobel Laureate, Turing Award recipient, and CMU professor Herbert Simon.
 
