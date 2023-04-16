@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - "main"
-      - "chore/crowdin"
 
 jobs:
   synchronize-with-crowdin:
