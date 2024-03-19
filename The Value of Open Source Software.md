@@ -350,8 +350,7 @@ Copyright © 2024 by Manuel Hoffmann, Frank Nagle, and Yanuo Zhou.
 注：高工资方案基于美国的平均工资，低工资方案为 2020 年印度程序员的平均工资。全球工资是[表 A4](https://hackmd.io/7O2fpfsAQGiFfYFEPN4eNQ?view#%E8%A1%A8-A4%EF%BC%9A%E4%BD%BF%E7%94%A8%E5%8C%BA%E9%97%B4-1%E3%80%812-%E5%92%8C-3-%E8%AF%AD%E8%A8%80%E7%9A%84%E5%BC%80%E6%BA%90%E7%9A%84%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B8%82%E5%9C%BA%E4%BB%B7%E5%80%BC) 中各国的平均工资，根据其对开源软件的贡献进行加权。这些估算仅包括软件分类 ***区间 1*** 中的语言（见[表 A1](https://hackmd.io/7O2fpfsAQGiFfYFEPN4eNQ?view#%E8%A1%A8-A1%EF%BC%9A%E5%90%84%E5%8C%BA%E9%97%B4%E5%86%85%E7%9A%84%E8%AF%AD%E8%A8%80)）。
 
 ## 在线附录
-<!-- 定义 --> 
-<a id="表 A1"></a>### 表 A1：各区间内的语言
+<a id="表 A1"><a/>### 表 A1：各区间内的语言
 
 | 类型          | 语言      | 
 | -------------| --------- | 
