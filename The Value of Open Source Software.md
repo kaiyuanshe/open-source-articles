@@ -3,10 +3,14 @@
 原文：The Value of Open Source Software (Working Paper 24-038) by Harvard Business School
 https://www.hbs.edu/faculty/Pages/item.aspx?num=65230
 https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf
-作者：Manuel Hoffmann, Frank Nagle and Yanuo Zhou
-译者：刘天栋 Ted
-审校：刘文涛 Leo
 
+作者：Manuel Hoffmann, Frank Nagle and Yanuo Zhou
+
+译者：刘天栋 Ted
+
+审校：刘文涛 Leo
+<br>
+<br>
 
 ![哈佛商学院](https://hackmd.io/_uploads/r1lIRaFTa.png)
 
