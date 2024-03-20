@@ -6,13 +6,11 @@ https://www.hbs.edu/faculty/Pages/item.aspx?num=65230
 
 https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf
 
-中英对照版：https://kaiyuanshe.feishu.cn/docx/KwdqdICiboWii9xLgQJcuUo9nZe
-
 作者：Manuel Hoffmann, Frank Nagle and Yanuo Zhou
 
-译者：刘天栋 Ted
+译文（中英对照）：https://kaiyuanshe.feishu.cn/docx/KwdqdICiboWii9xLgQJcuUo9nZe
 
-审校：刘文涛 Leo
+译者：刘天栋 Ted；审校：刘文涛 Leo
 <br>
 <br>
 
