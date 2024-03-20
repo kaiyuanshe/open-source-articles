@@ -1,8 +1,12 @@
 # 开源软件的价值（哈佛商学院研究报告-初稿）中文版
 
 原文：The Value of Open Source Software (Working Paper 24-038) by Harvard Business School
+
 https://www.hbs.edu/faculty/Pages/item.aspx?num=65230
+
 https://www.hbs.edu/ris/Publication%20Files/24-038_51f8444f-502c-4139-8bf2-56eb4b65c58a.pdf
+
+中英对照版：https://kaiyuanshe.feishu.cn/docx/KwdqdICiboWii9xLgQJcuUo9nZe
 
 作者：Manuel Hoffmann, Frank Nagle and Yanuo Zhou
 
