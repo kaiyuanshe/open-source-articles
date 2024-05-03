@@ -24,34 +24,30 @@ Written by [Liam Tung, Contributing Writer][4] July 2, 2020 at 6:03 a.m. PT
 
 Salvatore Sanfilippo, creator of popular NoSQL database Redis, has stepped down as the maintainer of the open-source project, which is now adopting a new 'light-governance model', as opposed to its current autocratic model.
 
-Although Sanfilippo is stepping down as the benevolent dictator for life (BDFL) of the Redis open-source project, he will stay on with Redis Labs on its advisory board, helping guide the project from a distance. 
+Although Sanfilippo is stepping down as the benevolent dictator for life (BDFL) of the Redis open-source project, he will stay on with Redis Labs on its advisory board, helping guide the project from a distance.
 
 ### Developer
 
--   [It's the end of programming as we know it -- again][5]
-    
--   [Developers feel secure in their jobs, but they're still thinking about quitting][6]
-    
--   [The future of the web will need a different sort of software developer][7]
-    
--   [The best Linux laptops for consumers and developers][8]
-    
+- [It's the end of programming as we know it -- again][5]
+- [Developers feel secure in their jobs, but they're still thinking about quitting][6]
+- [The future of the web will need a different sort of software developer][7]
+- [The best Linux laptops for consumers and developers][8]
 
-Sanfilippo, aka 'antirez', kicked off the project in early 2009. Since then, the Redis database has [become popular for caching][9] and the go-to real-time database for supporting large-scale back-end transaction and content-serving systems.  
+Sanfilippo, aka 'antirez', kicked off the project in early 2009. Since then, the Redis database has [become popular for caching][9] and the go-to real-time database for supporting large-scale back-end transaction and content-serving systems.
 
 **SEE:** [**Guide to Becoming a Digital Transformation Champion**][10] **(TechRepublic Premium)**
 
-Today, the Redis database is open source, while enterprise features and Redis Modules are licensed separately. It's the most popular key-value store, [according to DB-Engines][11], ahead of Amazon DynamoDB and Microsoft Azure Cosmos DB, and Memcached. Last year, Redis Enterprise [launched as a managed service on Google Cloud][12]. 
+Today, the Redis database is open source, while enterprise features and Redis Modules are licensed separately. It's the most popular key-value store, [according to DB-Engines][11], ahead of Amazon DynamoDB and Microsoft Azure Cosmos DB, and Memcached. Last year, Redis Enterprise [launched as a managed service on Google Cloud][12].
 
-Redis Labs, the company that backs the Redis project and sells enterprise Redis modules, controversially [changed its open-source licensing terms][13] last year in a move to block rivals – in particular Amazon Web Services – from repackaging Redis software into a competitive product. 
+Redis Labs, the company that backs the Redis project and sells enterprise Redis modules, controversially [changed its open-source licensing terms][13] last year in a move to block rivals – in particular Amazon Web Services – from repackaging Redis software into a competitive product.
 
-In a blogpost, Sanfilippo [says he never wanted to be a software maintainer][14], so he's taking a step back from that role to become the 'ideas person' at Redis Labs. 
+In a blogpost, Sanfilippo [says he never wanted to be a software maintainer][14], so he's taking a step back from that role to become the 'ideas person' at Redis Labs.
 
 "In recent years, what I do every day changed so much that most of my attention is spent in checking what other developers tell me about the Redis code, how to improve it, the changes it requires to be more correct or faster or more secure. However, I never wanted to be a software maintainer."
 
-He said also he'd "rather be remembered as a bad artist than a good programmer" from the perspective that he thinks of writing code as a way to express himself. 
+He said also he'd "rather be remembered as a bad artist than a good programmer" from the perspective that he thinks of writing code as a way to express himself.
 
-His maintainer role is being handed off to new Redis project leads, Yossi Gottlieb and Oran Agra, who [announced a new 'community-driven' governing structure][15], rather than leaving all final decisions to BDFL Sanfilippo on what contributions made it to Redis. 
+His maintainer role is being handed off to new Redis project leads, Yossi Gottlieb and Oran Agra, who [announced a new 'community-driven' governing structure][15], rather than leaving all final decisions to BDFL Sanfilippo on what contributions made it to Redis.
 
 **SEE:** [**Database Week: DataStax unleashed Astra managed Cassandra cloud**][16]
 
@@ -59,13 +55,13 @@ The pair argue in a blogpost that Redis' DNA "involves ideas like striving for s
 
 "As Salvatore steps back from maintaining Redis, the project's scale can no longer be managed as a BDFL-style project. We see this as an opportunity for Redis to adopt a new model that, hopefully, will promote more teamwork and structure and let us scale up its development and maintenance processes.
 
-"The governance model is intended to be a meritocracy, aiming to empower individuals who demonstrate a long-term commitment and make significant contributions," [Redis explains][17].  
+"The governance model is intended to be a meritocracy, aiming to empower individuals who demonstrate a long-term commitment and make significant contributions," [Redis explains][17].
 
-The core Redis team will be responsible for the Redis core project, the part of Redis that is hosted in the main Redis repository and is BSD-licensed. 
+The core Redis team will be responsible for the Redis core project, the part of Redis that is hosted in the main Redis repository and is BSD-licensed.
 
 ![salvatore-sanfilippotedyoutube.jpg](/)
 
-Salvatore Sanfilippo: "Most of my attention is spent in checking what other developers tell me about the Redis code."  
+Salvatore Sanfilippo: "Most of my attention is spent in checking what other developers tell me about the Redis code."
 
 Image: Salvatore Sanfilippo/TEDx/YouTube
 
@@ -101,36 +97,35 @@ German state ditches Microsoft for Linux and LibreOffice][21]
 
 My 5 favorite Linux text editors (and why you should be using one)][22]
 
--   [
-    
-    ![Inside a System76 Thelio.](/)
-    
-    5 Linux commands you must know to keep your device running smoothly][23]
-    
--   [
-    
-    ![Microsoft Surface Laptop Studio 2](/)
-    
-    The best Linux laptops you can buy: Expert tested][24]
-    
--   [
-    
-    ![Linux Mint 20.2 with Cinnamon](/)
-    
-    The best Linux distros for beginners][25]
-    
--   [
-    
-    ![2pneguinsgettyimages-534970880](/)
-    
-    German state ditches Microsoft for Linux and LibreOffice][26]
-    
--   [
-    
-    ![typingclosegettyimages-1341060766](/)
-    
-    My 5 favorite Linux text editors (and why you should be using one)][27]
-    
+- [
+
+  ![Inside a System76 Thelio.](/)
+
+  5 Linux commands you must know to keep your device running smoothly][23]
+
+- [
+
+  ![Microsoft Surface Laptop Studio 2](/)
+
+  The best Linux laptops you can buy: Expert tested][24]
+
+- [
+
+  ![Linux Mint 20.2 with Cinnamon](/)
+
+  The best Linux distros for beginners][25]
+
+- [
+
+  ![2pneguinsgettyimages-534970880](/)
+
+  German state ditches Microsoft for Linux and LibreOffice][26]
+
+- [
+
+  ![typingclosegettyimages-1341060766](/)
+
+  My 5 favorite Linux text editors (and why you should be using one)][27]
 
 [Editorial standards][28]
 
@@ -146,13 +141,13 @@ Log In to Comment [Community Guidelines][29]
 
 ### GitHub releases an AI-powered tool aiming for a 'radically new way of building software'
 
-][30][
+][30]
 
 ![tabnineatlassian-720.png](/)
 
 ### Tabnine and Atlassian reveal new generative AI tools for developers
 
-][31][
+][31]
 
 ![3 money trees](/)
 
