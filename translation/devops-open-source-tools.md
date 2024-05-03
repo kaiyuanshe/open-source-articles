@@ -15,36 +15,36 @@ reviewer: ""
 
 User account menu
 
--   [Log in][3]
--   [RSS][4]
+- [Log in][3]
+- [RSS][4]
 
- [![Home](/themes/tep/logo.png)][5][![](/themes/tep/assets/img/red_hat_supported_by_red.svg)][6]
+[![Home](/themes/tep/logo.png)][5][![](/themes/tep/assets/img/red_hat_supported_by_red.svg)][6]
 
 A community helping CIOs and IT leaders solve problems
 
 Main navigation
 
--   [Articles][7]
-    -   [Digital Transformation][8]
-    -   [Enterprise Technology][9]
-        -   [Hybrid Cloud][10]
-    -   [IT Strategy][11]
-    -   [IT Talent][12]
-    -   [Kubernetes: Everything You Need to Know][13]
--   [CIO Research][14]
-    -   [HBR Articles][15]
-    -   [Research/Reports][16]
-    -   [Resources][17]
-    -   [Roundtables][18]
-    -   [What is Digital Transformation?][19]
-    -   [Automation: The IT Leader's Guide][20]
-    -   [DevOps: The IT Leader's Guide][21]
-    -   [Hybrid Cloud: The IT Leader's Guide][22]
-    -   [The Ultimate DevOps Hiring Guide][23]
--   [What is an Enterpriser?][24]
-    -   [Meet the Enterprisers][25]
-    -   [Meet the Team][26]
--   [About This Project][27]
+- [Articles][7]
+  - [Digital Transformation][8]
+  - [Enterprise Technology][9]
+    - [Hybrid Cloud][10]
+  - [IT Strategy][11]
+  - [IT Talent][12]
+  - [Kubernetes: Everything You Need to Know][13]
+- [CIO Research][14]
+  - [HBR Articles][15]
+  - [Research/Reports][16]
+  - [Resources][17]
+  - [Roundtables][18]
+  - [What is Digital Transformation?][19]
+  - [Automation: The IT Leader's Guide][20]
+  - [DevOps: The IT Leader's Guide][21]
+  - [Hybrid Cloud: The IT Leader's Guide][22]
+  - [The Ultimate DevOps Hiring Guide][23]
+- [What is an Enterpriser?][24]
+  - [Meet the Enterprisers][25]
+  - [Meet the Team][26]
+- [About This Project][27]
 
 # How DevOps teams can get more from open source tools
 
@@ -72,7 +72,7 @@ That’s why [entire communities][33] have now coalesced around these tools, a
 
 Whether you need to connect your continuous integration server with your configuration management tool or something else, there’s probably already a playbook for that. These synergies have led to the creation of many open-source DevOps tools, many of which are now widely adopted and used (full disclosure: I work for [Delphix][35], which has its own open source project).
 
-**\[ Read also: [5 open source tools IT leaders should know about now][36] and  [DevOps engineers: Common misconceptions about the role][37]. \]** 
+**\[ Read also: [5 open source tools IT leaders should know about now][36] and  [DevOps engineers: Common misconceptions about the role][37]. \]**
 
 From working with dozens of DevOps teams across Fortune 500 companies — as well as our own internal use of OSS tools — I’ve found that teams need to approach open-source strategy in two dimensions: horizontal and then vertical. Here’s what I mean:
 
@@ -102,15 +102,15 @@ That’s why each layer of the DevOps operation — from top to bottom — must 
 
 MORE ON DEVOPS
 
--   [Agile vs. DevOps: What’s the difference?][48]
--   [DevOps culture: 5 questions to ask about yours][49]
--   [DevOps metrics: Are you measuring what matters?][50]
+- [Agile vs. DevOps: What’s the difference?][48]
+- [DevOps culture: 5 questions to ask about yours][49]
+- [DevOps metrics: Are you measuring what matters?][50]
 
 Whether you’re brand new to DevOps or a savvy veteran, solving for the right toolset to build out a modern software delivery pipeline can be intimidating. OSS can provide all the constituent pieces you need to make integration less daunting, but you must also have the right mindset.
 
 Remember, you’re not just populating an array of open source tools — you’re actually building an array of arrays. Think about automation and speed in two dimensions instead of one, and address bottlenecks that can slow you down in each step of the DevOps process. Do that, and you’ll be right on your way to using open source for a highly-automated, lightning fast CI/CD pipeline.
 
-**\[ How can automation free up more staff time for innovation? Get the free eBook: [Managing IT with Automation][51]. \]** 
+**\[ How can automation free up more staff time for innovation? Get the free eBook: [Managing IT with Automation][51]. \]**
 
 Topics
 
@@ -162,11 +162,9 @@ Copyright ©2022 Red Hat, Inc.
 
 Legal
 
--   [Privacy Statement][66]
--   [Terms of use][67]
--   [Contact][68]
-
- 
+- [Privacy Statement][66]
+- [Terms of use][67]
+- [Contact][68]
 
 [1]: #main-content
 [2]: https://www.redhat.com/en?intcmp=701600000011jKuAAI
