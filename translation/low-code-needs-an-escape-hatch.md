@@ -12,17 +12,17 @@ reviewer: ""
 
 May 3, 2024[][1]
 
--   [![](https://github.com/lambtron.png)Andy Jiang][2]
+- [![](https://github.com/lambtron.png)Andy Jiang][2]
 
--   [Subhosting][3]
+- [Subhosting][3]
 
 Low-code solutions — visual workflow builders — can offer your users value by significantly reducing development effort and complexity. However, as your platforms’ capabilities grow with more integrations and functionalities, your users will inevitably require more customization to meet their needs. Instead of trying to anticipate and build for every use case, innovative platforms will simply offer an “escape hatch”, letting users write, host, and run custom code specifically designed to solve their problems.
 
 Figuring out where and when to add a customizable code block to your low-code solution is an important product decision, which can require meaningful engineering effort. In this post, we’ll cover three common ways to add a code-level customization escape hatch to your low-code platform:
 
--   [Internal custom block for data transformation][4]
--   [Custom external HTTP connectors][5]
--   [Custom dashboard and website components][6]
+- [Internal custom block for data transformation][4]
+- [Custom external HTTP connectors][5]
+- [Custom dashboard and website components][6]
 
 Let’s get started.
 
