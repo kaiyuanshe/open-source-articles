@@ -36,5 +36,5 @@ jobs:
                   - - tag: text
                       text: Issue
                     - tag: a
-                      text: "#${{ github.event.issue.number }}"
-                      href: ${{ github.server_url }}/${{ github.repository }}/issue/${{ github.event.issue.number }}
+                      text: ${{ github.server_url }}/${{ github.repository }}/issues/${{ github.event.issue.number }}
+                      href: ${{ github.server_url }}/${{ github.repository }}/issues/${{ github.event.issue.number }}
