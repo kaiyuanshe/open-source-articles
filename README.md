@@ -49,21 +49,18 @@
 
 ## 文章流程(仅适用于Github协作平台)
 
-文章的协作需要作/译者拥有[GitHub账号](https://github.com/settings/profile)，且[Fork](https://github.com/kaiyuanshe/open-source-articles#fork-destination-box)了[开源文章]()仓库。
+文章的协作需要作/译者拥有[GitHub账号](https://github.com/settings/profile)。
 
 ### 翻译(仅适用于Github协作平台)
 
-以 GitHub 的 [issue](./issues) 作为协作的工具，
+以 GitHub 的 [project](https://github.com/orgs/kaiyuanshe/projects/13) 作为协作的工具，
 
-1. 由开源社的文案角色人员提交线索，即提交一个 [issue](./issues/new)
-2. 按照[模板](./template_clue) 填写文章线索
-3. 原文最好是 [![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)](https://creativecommons.org/licenses/by/4.0/) 协议的
-4. 给新建的issue打上标签：翻译
-5. 认领，则直接回comment，然后将标签替换为：已认领
-6. 翻译完成，提交PR
-7. 经校对确认后，将PR合并到仓库，回复@媒体组成员，
-8. 媒体组发表文章，将线索打标签：已发表
-9. 校对确认后关闭issue。
+1. 由开源社的文案角色人员提交线索，即提交一个 [issue](https://github.com/kaiyuanshe/open-source-articles/issues/new/choose)
+2. 原文最好是 [![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png)](https://creativecommons.org/licenses/by/4.0/) 协议的
+3. 新建 issue 会触发自动爬取程序，并稍后会在下面生成文章编辑入口 `click to edit`
+4. 翻译完成，提交PR，并在其 description 中写明 `closes #issue_number`
+5. 经校对确认后，将PR合并到仓库
+6. 媒体组在开源社官网发表文章，可用形如 `https://kaiyuanshe.github.io/open-source-articles/文件夹目录/文件名（不含.md）` 的网址提交
 
 ### 原创(仅适用于Github协作平台)
 
