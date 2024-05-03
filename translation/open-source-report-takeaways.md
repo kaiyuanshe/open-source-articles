@@ -11,11 +11,7 @@ reviewer: ""
 
 <!-- more -->
 
-![CentOS Guide for Enterprise]()
-
-
-
-
+![CentOS Guide for Enterprise](https://example.com)
 
 ][1]
 

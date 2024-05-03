@@ -7,4 +7,6 @@ labels:
   - crawler
 ---
 
+@kaiyuanshe/team I add a new article to translate or publish:
+
 https://example.com/replace/this/with/your/original/article/URL
