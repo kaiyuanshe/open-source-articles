@@ -1,7 +1,10 @@
-原文：https://s.apache.org/DiEo
-石墨：https://shimo.im/docs/E6Dkds9neoUY9PsB
-赢在Apache：精英治理
-作者Kevin A. McGrail
+---
+originals:
+  - https://s.apache.org/DiEo
+  - https://shimo.im/docs/E6Dkds9neoUY9PsB
+title: 赢在Apache：精英治理
+author: Kevin A. McGrail
+---
 
 Apache软件基金会不是民主机构。
 
