@@ -15,7 +15,6 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "lts/*"
-          cache: pnpm
 
       - name: Lint & Format
         run: pnpm --package=@lint-md/cli dlx lint-md **/*.md --fix
