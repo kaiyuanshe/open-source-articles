@@ -5,4 +5,3 @@ originalURL: https://www.techrepublic.com/article/how-open-source-selfishness-ca
 translator: ""
 reviewer: ""
 ---
-
