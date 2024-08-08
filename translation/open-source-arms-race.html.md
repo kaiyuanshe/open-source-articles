@@ -12,12 +12,12 @@ Please, cite this blog post via [BibTeX][1] as such:
 <!-- more -->
 
 @misc{bugayenko2020blog0505,
-  author = {Bugayenko, Yegor},
-  title = {{Open Source Arms Race}},
-  howpublished = {\\url{https://www.yegor256.com/200505.html}},
-  year = {2020},
-  month = {may},
-  note = {\[Online; accessed 08-07-2024\]}
+author = {Bugayenko, Yegor},
+title = {{Open Source Arms Race}},
+howpublished = {\\url{https://www.yegor256.com/200505.html}},
+year = {2020},
+month = {may},
+note = {\[Online; accessed 08-07-2024\]}
 }
 
 Some companies massively invest in open source software projects, while others still remain skeptical and stay away from this trend. What’s in it for those philanthropists, like Google, IBM or Microsoft? Why spend money on something that doesn’t belong to them and is shared among all of us developers? Don’t they understand that the code they write may be used by their competitors? It seems they do understand, but can’t do anything about it.
@@ -30,30 +30,20 @@ As David Mytton [noted][2], individuals release open source projects out of altr
 
 First, let’s see exactly how, among [other methods][4], companies invest in open source:
 
--   **Committers**. Google, for example, encourages its employees to open their code, and even has an [approval procedure][5] for it. It seems that others do something similar. Some recently published [research][6] demonstrates that thousands (!) of employees from [Microsoft][7] (4.3k visible GitHub contributors), [IBM][8] (2.3k), [Google][9] (1.2k), and [others][10] actively contribute to their GitHub-hosted repositories. In other words, being paid by Google these people write code that doesn’t belong to Google.
-    
--   **Events**. Aside from [Google Cloud Next][11], [AWS re:Invent][12], and [Microsoft Ignite][13], which are pure promotional events, tech giants sponsor community-driven conferences, like [DockerCon][14], [KubeCon][15], [FOSDEM][16], and so on.
-    
--   **Foundations**. [Apache][17], [Linux][18], [Eclipse][19], [GNOME][20], [OSI][21] and [others][22] are sponsored by Google, IBM, Huawei, Microsoft, Oracle, and others.
-    
--   **Acquisitions**. They [acquire][23] startups that make open source products, e.g. [RedHat][24] (acquired by IBM for [$32b][25]), [MongoDB][26] ([$4b][27]), [Docker][28] ([$1b][29]), [Elastic][30] ([$6b][31]), [Ansible][32] ([$100m][33]), [MySQL][34] ([$1b][35]), [Nginx][36] ([$670m][37]), and [so on][38]. The market is [booming][39], by the way.
-    
--   **Donations**. Google, for example, [donates][40] to [Fastlane][41] and [Kubernetes][42]; IBM [donates][43] to [Node.js][44] and [TensorFlow][45]; Amazon sponsors [Rust][46]; and [so on][47].
-    
+- **Committers**. Google, for example, encourages its employees to open their code, and even has an [approval procedure][5] for it. It seems that others do something similar. Some recently published [research][6] demonstrates that thousands (!) of employees from [Microsoft][7] (4.3k visible GitHub contributors), [IBM][8] (2.3k), [Google][9] (1.2k), and [others][10] actively contribute to their GitHub-hosted repositories. In other words, being paid by Google these people write code that doesn’t belong to Google.
+- **Events**. Aside from [Google Cloud Next][11], [AWS re:Invent][12], and [Microsoft Ignite][13], which are pure promotional events, tech giants sponsor community-driven conferences, like [DockerCon][14], [KubeCon][15], [FOSDEM][16], and so on.
+- **Foundations**. [Apache][17], [Linux][18], [Eclipse][19], [GNOME][20], [OSI][21] and [others][22] are sponsored by Google, IBM, Huawei, Microsoft, Oracle, and others.
+- **Acquisitions**. They [acquire][23] startups that make open source products, e.g. [RedHat][24] (acquired by IBM for [$32b][25]), [MongoDB][26] ([$4b][27]), [Docker][28] ([$1b][29]), [Elastic][30] ([$6b][31]), [Ansible][32] ([$100m][33]), [MySQL][34] ([$1b][35]), [Nginx][36] ([$670m][37]), and [so on][38]. The market is [booming][39], by the way.
+- **Donations**. Google, for example, [donates][40] to [Fastlane][41] and [Kubernetes][42]; IBM [donates][43] to [Node.js][44] and [TensorFlow][45]; Amazon sponsors [Rust][46]; and [so on][47].
 
 Next, the question is how this helps Google and others make their business more profitable. For example, how is Google Cloud Platform planning to beat Amazon AWS using open source as a weapon? Here is how, among [other reasons][48]:
 
--   **Selling**. The products they sponsor gather large communities of users, who know how to work with them. Some of those users are decision-making people. For example, [Google’s Container Engine][49] is a hosted version of [Kubernetes][50], an open source product. Kubernetes users, when they need a hosted version of it, will most likely become Google customers. [TensorFlow][51], yet another example, also runs on [Google Cloud Platform][52].
-    
--   **Influencing**. In the modern software development world open source is the key media, where programmers learn new ideas, design principles, and architectural solutions. They listen to open source projects, because they trust them much more than they trust Google, IBM or Microsoft. Tech companies are smart, but their decisions are based on monetary reasons, while open source projects are much freer to do what is right, instead of what is profitable. And programmers usually get very skeptical when open projects are acquired by large enterprises, like [Java by Oracle][53] or [GitHub by Microsoft][54] (not really an open source story, but very close). Thus, for companies it’s much wiser to sponsor open source and stay behind the curtain rather than talking directly to developers through corporate media like [MSDN][55] or [OPN][56].
-    
--   **Branding**. Being part of open source is a direct contribution to the public image of a company. Google is no longer an [Ad-selling monopoly][57], with [questionable reputation][58], but one of the largest software [philanthropists][59]. Microsoft is [catching up][60] with its massive [code opening][61] and the [purchase][62] of GitHub.
-    
+- **Selling**. The products they sponsor gather large communities of users, who know how to work with them. Some of those users are decision-making people. For example, [Google’s Container Engine][49] is a hosted version of [Kubernetes][50], an open source product. Kubernetes users, when they need a hosted version of it, will most likely become Google customers. [TensorFlow][51], yet another example, also runs on [Google Cloud Platform][52].
+- **Influencing**. In the modern software development world open source is the key media, where programmers learn new ideas, design principles, and architectural solutions. They listen to open source projects, because they trust them much more than they trust Google, IBM or Microsoft. Tech companies are smart, but their decisions are based on monetary reasons, while open source projects are much freer to do what is right, instead of what is profitable. And programmers usually get very skeptical when open projects are acquired by large enterprises, like [Java by Oracle][53] or [GitHub by Microsoft][54] (not really an open source story, but very close). Thus, for companies it’s much wiser to sponsor open source and stay behind the curtain rather than talking directly to developers through corporate media like [MSDN][55] or [OPN][56].
+- **Branding**. Being part of open source is a direct contribution to the public image of a company. Google is no longer an [Ad-selling monopoly][57], with [questionable reputation][58], but one of the largest software [philanthropists][59]. Microsoft is [catching up][60] with its massive [code opening][61] and the [purchase][62] of GitHub.
 
--   **Retaining**. Being an active participant of a visible open source software product is a great [intrinsic motivator][64] for the best software engineers. When your company is involved in open source business, you are much more loyal and interested in staying longer with the company. I can’t prove this assertion, but it’s my personal observation.
-    
--   **Training**. It’s [no secret][65] that the [best technologies][66] nowadays are being created in open source projects by people contributing for free (they get their salaries somewhere else). It’s also a [well-known fact][67] that in order to be a better engineer one has to work with the best. Open source projects are [exactly][68] the best place to meet more experienced and very often more talented programmers, and learn from them. Companies, by sending people there, boost their skills without doing any internal training programs.
-    
+- **Retaining**. Being an active participant of a visible open source software product is a great [intrinsic motivator][64] for the best software engineers. When your company is involved in open source business, you are much more loyal and interested in staying longer with the company. I can’t prove this assertion, but it’s my personal observation.
+- **Training**. It’s [no secret][65] that the [best technologies][66] nowadays are being created in open source projects by people contributing for free (they get their salaries somewhere else). It’s also a [well-known fact][67] that in order to be a better engineer one has to work with the best. Open source projects are [exactly][68] the best place to meet more experienced and very often more talented programmers, and learn from them. Companies, by sending people there, boost their skills without doing any internal training programs.
 
 Thus, it seems that open source is a very powerful instrument in the war for tech markets and for talent. Smart companies develop their open source muscles, earning reputation and acquiring our trust. I predict this trend not only to continue but also to escalate. We programmers are their driving force; they need us as users, promoters, influencers, and makers of the products.
 
@@ -64,7 +54,7 @@ We software developers are the territory!
 Thus, if you are a coder, make your own project now. Sooner or later Google will knock on the door and offer you a big check, just to do it earlier than Microsoft.
 
 > Why don't you have your own super popular [#opensource][71] product yet?
-> 
+>
 > — Yegor Bugayenko (@yegor256) [December 13, 2020][72]
 
 [1]: https://www.bibtex.org/
