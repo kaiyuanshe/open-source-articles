@@ -16,7 +16,7 @@ body:
     attributes:
       label: 翻译须知
       description: 如有其它需要注意的事项，请注明以帮助译者。
-      value: '@kaiyuanshe/team-1'
+      value: '@kaiyuanshe/team'
   - type: markdown
     attributes:
       value: >-
