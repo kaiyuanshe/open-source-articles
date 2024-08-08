@@ -22,7 +22,7 @@ jobs:
         uses: freeCodeCamp-China/article-webpage-to-markdown-action@v2
         with:
             pageURL: "${{ steps.issue-parser.outputs.issueparser_page_link  }}"
-            markdownFolder: "./_drafts/Article/Translation/"
+            markdownFolder: "./translation/"
             githubToken: ${{ github.token }}
       
       - name: 将输出发至评论区
