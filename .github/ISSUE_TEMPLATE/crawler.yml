@@ -2,8 +2,8 @@ name: 文章翻译
 description: 外文优秀技术、开源文章翻译
 title: （译文中文标题）
 labels:
-  - Article
-  - Translation
+  - 翻译
+  - crawler
 body:
   - type: input
     id: page_link
