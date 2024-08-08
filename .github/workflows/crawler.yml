@@ -46,12 +46,17 @@ jobs:
           url: ${{ secrets.LARK_CHATBOT_HOOK_URL }}
           msg_type: post
           content: |
-            post:
-              zh_cn:
-                title: 开源文库 GitHub 文章爬取
-                content:
-                  - - tag: text
-                      text: Issue
-                    - tag: a
-                      text: ${{ github.server_url }}/${{ github.repository }}/issues/${{ github.event.issue.number }}
-                      href: ${{ github.server_url }}/${{ github.repository }}/issues/${{ github.event.issue.number }}
+              post:
+                zh_cn:
+                  title: 开源文库 GitHub 文章爬取
+                  content:
+                    - - tag: text
+                        text: 提交人：
+                      - tag: a
+                        text: ${{ github.event.issue.user.login }}
+                        href: ${{ github.server_url }}/${{ github.event.issue.user.login }}
+                    - - tag: text
+                        text: 任务卡：
+                      - tag: a
+                        text: ${{ github.server_url }}/${{ github.repository }}/issues/${{ github.event.issue.number }}
+                        href: ${{ github.server_url }}/${{ github.repository }}/issues/${{ github.event.issue.number }}
