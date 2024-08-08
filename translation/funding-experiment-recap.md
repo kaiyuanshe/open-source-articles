@@ -15,8 +15,8 @@ reviewer: ""
 
 By [Feross Aboukhadijeh][3] Tagged with
 
--   [node.js][4]
--   [javascript][5]
+- [node.js][4]
+- [javascript][5]
 
 I’m ending the `funding` experiment I [introduced][6] a few days ago.
 
@@ -92,11 +92,11 @@ Starting in 2018, I began trying lots of different ways to raise funding so I co
 
 Here are a few of the things I tried:
 
--   [`thanks`][16]
--   [Patreon][17]
--   [Tidelift][18]
--   [GitHub Sponsors][19]
--   Paid consulting
+- [`thanks`][16]
+- [Patreon][17]
+- [Tidelift][18]
+- [GitHub Sponsors][19]
+- Paid consulting
 
 With all these put together, I can make it work. But it still feels like a precarious solution. If even I – with my fortunate position – can’t make a _comfortable_ living working on open source, then how is anyone else supposed to make it work?
 
@@ -150,10 +150,10 @@ For the record, **`funding` had absolutely no tracking, no data collection, and 
 
 But even when ads don’t track or collect data, they still feel “icky” to many users.
 
-> Oooo light bulb! Perhaps I should write a script that puts ads on the desktop wallpaper while installing ;) <evil laugh>  
->   
+> Oooo light bulb! Perhaps I should write a script that puts ads on the desktop wallpaper while installing ;) <evil laugh>
+>
 > I'm all for sponsoring open source but ads during install are just annoying. Please don't. [https://t.co/2knajtL0ay][26]
-> 
+>
 > — James M Snell (@jasnell) [August 25, 2019][27]
 
 Personally, I’m not a huge fan of ads. I wish we could get away from ads as a funding model for free content. I use an ad blocker in my web browser, I install ad blockers on all my family’s computers, and I hope you do too. And yet, I’m pragmatic. I run ads on some of the websites that I’ve built and it helps fund ongoing maintenance work.
@@ -171,13 +171,13 @@ Fellow open source maintainers and open source contributors have, by and large, 
 [Paolo Fragomeni][28] said it best:
 
 > No one cool was upset by what [@StandardJS][29] did.
-> 
+>
 > — Paolo F (@heapwolf) [August 27, 2019][30]
 
 Folks who have spent time maintaining a popular open source project know how much time it takes to keep a project “healthy”. There are a constant stream of bugs to fix, new features to consider adding, pull requests to review, security issues in dependencies to resolve, user questions to answer, and underlying platform changes to deal with. Even for simple single-purpose packages, there’s a non-trivial ongoing maintenance burden. Especially when you’re maintaining hundreds of packages, as many in the Node.js community do.
 
 > good
-> 
+>
 > — substack (@substack) [August 25, 2019][31]
 
 Lots of maintainers welcomed the experiment as a much-needed conversation starter. That’s not to say that folks were thrilled with the idea of ads in their terminal. Many supporters expressed their dislike of advertising – even advertising where the sponsors are carefully selected and the implementation does not track users or collect data.
@@ -189,11 +189,11 @@ If nothing else, it’s nice that `funding` forced open source “consumers” 
 ![](/images/funding-mixmix.png)
 
 > I love your funding experiment [@feross][32] ❤️ don’t give up. Haters gonna hate.
-> 
+>
 > — Jake Verbaten (@Raynos) [August 25, 2019][33]
 
 > [@feross][34] I'm glad you tried & ran the funding experiment, no matter what flak got thrown your way. :)
-> 
+>
 > — noffle 🌱 (@noffle) [August 27, 2019][35]
 
 ### The brigaders
@@ -201,7 +201,7 @@ If nothing else, it’s nice that `funding` forced open source “consumers” 
 Large numbers of the detractors seemed to come from the [r/programming][36] subreddit who are notoriously anti-JavaScript. A smaller number came from 4Chan and Hacker News. These [drive-by condemners][37] were eager to join in a [pile-on][38] in the `standard` issue tracker. But since these folks were neither users nor contributors to `standard`, I think their opinions should be discounted compared to those of actual users, fellow contributors, and fellow maintainers.
 
 > glob bless [@feross][39] for poking the hornet’s nest tho
-> 
+>
 > — Forrest L Norvell (@othiym23) [August 25, 2019][40]
 
 Folks who contribute nothing don’t get a seat at the table.
@@ -209,8 +209,8 @@ Folks who contribute nothing don’t get a seat at the table.
 [Rich Hickey][41] said it best in [Open Source is Not About You][42]:
 
 > The only people entitled to say how open source ‘ought’ to work are people who run projects, and the scope of their entitlement extends only to their own projects.
-> 
-> As a user of something open source you are not … entitled to anything at all. You are not entitled to contribute. You are not entitled to features. You are not entitled to the attention of others. You are not entitled to having value attached to your complaints. You are not entitled to this explanation.
+>
+> As a user of something open source you are not …… entitled to anything at all. You are not entitled to contribute. You are not entitled to features. You are not entitled to the attention of others. You are not entitled to having value attached to your complaints. You are not entitled to this explanation.
 
 ### Ending the experiment
 
@@ -219,7 +219,7 @@ Folks who contribute nothing don’t get a seat at the table.
 Since it seems clear this isn’t going to be the solution that saves us all, I’m ending the experiment. (In fact, it’s already been paused since Saturday when the initial two sponsors backed out.)
 
 > We reconsidered after reflecting on the developer community's reaction. We still passionately support open source software along with [@feross][43], but we'll be more careful about experimenting in the future while continuing to innovate. On that note:[https://t.co/WFrHBFGzul][44]
-> 
+>
 > — Linode (@linode) [August 26, 2019][45]
 
 Both Linode and LogRocket are supportive of exploring new ways to support open source. It’s a bummer this didn’t work out, but I don’t hold it against either of them.
@@ -242,8 +242,8 @@ I really appreciate the support that folks have shown for experimentation, and a
 
 **Update:** If you want to read more thoughts about `funding` from someone who’s a much better writer than me, I recommend these posts from Kyle Mitchell:
 
--   [Process of Elimination][47]
--   [But You Said I Could][48]
+- [Process of Elimination][47]
+- [But You Said I Could][48]
 
 ### Thanks for reading! [![RSS Feed Icon](/images/rss.png)][49]
 
